@@ -1,0 +1,117 @@
+.h {
+    text-align: center;
+}
+
+.colorWhite {
+    color: white;
+}
+
+.main_index {
+    color: white;
+    background-color: #c4a310;
+    border-radius: 15px;
+    width: 80%;
+    margin: auto;
+}
+
+.main_ind {
+    width: 30%;
+    margin: 0% auto auto auto;
+}
+
+.header {
+    background-color: #6c9296;
+    height: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_main {
+    background-color: #6c9296;
+}
+
+.index_space {
+    height: 8%;
+}
+
+.ind_logo {
+    height: 75%; 
+}
+
+.ind_logo1 {
+    height: 65%; 
+}
+
+.left {
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.html_index { 
+    overflow-x:  hidden; 
+}
+
+.card1 {
+    width: 80%;
+    margin: auto;
+    background-color: #5d7b59;
+    border-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    position: relative;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-bottom-color: rgba(0, 0, 0, 0.125);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+.links {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.btn-dark1 {
+    color: white;
+    background-color: #84a647;
+    border-color: #84a647;
+}
+.btn11 {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
